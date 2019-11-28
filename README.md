@@ -1,4 +1,4 @@
-# Lab| Web Apps - The liar game
+# Lab | Web Apps - The liar game
 
 ## Introduction
 
